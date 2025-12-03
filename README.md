@@ -1,5 +1,4 @@
 🦾⚙️🦾⚙️🦾⚙️🦾⚙️🦾⚙️🦾⚙️🦾⚙️🦾⚙️🦾⚙️🦾⚙️🦾⚙️🦾
-# Real Time Control of a Tripteron Robot with FreeRTOS
 
 # Tripteron Robot Controller (ESP32)
 
