@@ -44,5 +44,6 @@ The project follows a modular object-oriented architecture:
 ### Execution Diagram (Multithreading)
 Movement (x, y) is executed by splitting the task into two simultaneous threads. The processor waits for both to finish before processing the next trajectory point, ensuring perfect synchronization.
 
-<img width="1264" height="1798" alt="Untitled diagram-2025-12-03-224555" src="https://github.com/user-attachments/assets/42c3abf5-5dee-4574-94c7-b2431da0bc2b" />
+<img width="1208" height="1733" alt="Untitled diagram-2025-12-04-172610" src="https://github.com/user-attachments/assets/94fd68ba-5c7b-4dfd-bcd9-c8017e855c29" />
+
 
